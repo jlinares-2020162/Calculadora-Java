@@ -1,0 +1,86 @@
+.AchorPane
+{
+    -fx-background-color: #000000;
+}
+
+.Pantalla
+{
+    -fx-background-color: #000000;
+    -fx-text-fill: #FFFFFF;
+}
+
+.button1
+{
+    -fx-background-color: #FF9B00;
+    -fx-background-radius: 30 30 30 30;
+    -fx-text-fill: #FFFFFF;
+}
+
+.button1:hover
+{
+    -fx-background-color: #DBDBDB;
+    -fx-backgorung-radius: 30 30 30 30;
+}
+
+.button1:pressed
+{
+    -fx-background-color: #FFFFFF;
+    -fx-background-radius: 30 30 30 30;
+    -fx-text-fill: #FF9B00;
+}
+
+.button2
+{
+    -fx-background-color: #2D2D2D;
+    -fx-background-radius: 30 30 30 30;
+    -fx-text-fill: #FFFFFF;
+}
+
+.button2:hover
+{
+    -fx-background-color: #4A4A4A;
+    -fx-backgorung-radius: 30 30 30 30;
+}
+
+.button2:pressed
+{
+    -fx-background-color: #828282;
+    -fx-background-radius: 30 30 30 30;
+}
+
+.button3
+{
+    -fx-background-color: #CFCFCF;
+    -fx-background-radius: 30 30 30 30;
+}
+
+.button3:hover
+{
+    -fx-background-color: #E6E6E6;
+    -fx-backgorung-radius: 30 30 30 30;
+}
+
+.button3:pressed
+{
+    -fx-background-color: #FFFFFF;
+    -fx-background-radius: 30 30 30 30;
+}
+
+.button4
+{
+    -fx-background-color: #202020;
+    -fx-background-radius: 30 30 30 30;
+}
+
+.button4:hover
+{
+    -fx-background-color: #575757;
+    -fx-backgorung-radius: 30 30 30 30;
+}
+
+.button4:pressed
+{
+    -fx-background-color: #FFFFFF;
+    -fx-background-radius: 30 30 30 30;
+    -fx-text-fill: #000000;
+}
